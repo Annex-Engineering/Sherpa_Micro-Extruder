@@ -1,4 +1,14 @@
-# Sherpa Micro - Release 1
+
+## Micro R2 Release Candidate:
++ Bondtech RIDGA v2 compatibility
++ Minor fixes and adjustments in preparation for upcoming upgrades
+Core housing and rear housing need to be reprinted if upgrading from Release 1
+
+## Micro Fixed Idler Public Alpha:
++ Bondtech RIDGA v2 compatibility
++ Fixed idler version of the Micro, based on @churls' work
+Experimental design, not recommended for production use
+Please provide feedback on the Annex discord server if you encounter issues
 
 ## FAQ
 For Material Requirements, Print Settings and How to Interpret the file naming structure, please see: "Print_Settings_and_File_Key.txt"
