@@ -1,8 +1,13 @@
 
-## Micro R2 Release Candidate:
-+ Bondtech RIDGA v2 compatibility
+## Micro R2 Release Candidate 2:
++ Bondtech RIDGA v2 compatibility (R2 RC1 and newer)
++ Bondtech insert support
++ Stronger and stiffer idler arm
++ Increased clearance between idler arm and core
 + Minor fixes and adjustments in preparation for upcoming upgrades
-Core housing and rear housing need to be reprinted if upgrading from Release 1
+
++ Core housing and rear housing need to be reprinted if upgrading from Release 1
++ Updated idler arms are backwards compatible with Release 1 and Release 2 RC1
 
 ## Micro Fixed Idler Public Alpha:
 + Bondtech RIDGA v2 compatibility
