@@ -1,5 +1,5 @@
 
-## Micro R2 Release Candidate 2:
+## Sherpa Micro - Release 2
 + Bondtech RIDGA v2 compatibility (R2 RC1 and newer)
 + Bondtech insert support
 + Stronger and stiffer idler arm
